@@ -36,3 +36,4 @@ This project explores the application of **Laplace Transforms** in the **stabili
 
 ---
 
+[Read the detailed report here !!!](https://github.com/Aarnya-Jain/Lalace-Tranformations-for-stability-of-robotic-arms/blob/main/Laplace_Transform_for_Feedback_Transform_System.pdf)
